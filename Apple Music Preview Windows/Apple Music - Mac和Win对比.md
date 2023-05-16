@@ -12,23 +12,23 @@ URL: https://www.bilibili.com/video/BV1pP4y1r78Z/
 
 # UI
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled.png)
+![Untitled](pic/Untitled.png)
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%201.png)
+![Untitled](pic/Untitled 1.png)
 
 **Windows端Apple Music将称得上设计规范的Win UI 3界面和传统HIG样式相结合，配合着极简的设计、Windows非线性动画和恰到好处的模糊，呈现了顶级的视觉效果。左侧抽屉和macOS一致，包含现在就听，浏览和电台，而资料库和播放列表则设计成可折叠的二级菜单样式。**
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%202.png)
+![Untitled](pic/Untitled 2.png)
 
 ~~其中浏览可以使用开关过滤几个预设类型，领先macOS 9个世代。~~
 
 # 功能
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%203.png)
+![Untitled](pic/Untitled 3.png)
 
 **功能上最亮眼的部分则是支持串流最高24bit/192kHz的无损音乐。在Windows用户也终于体验到苹果高超的母带压制技术的同时，也预示着苹果在各个平台实现了一致的播放规格。**
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%204.png)
+![Untitled](pic/Untitled 4.png)
 
 ~~尽管在商店中苹果表示并非所有功能都能正常工作，不过可贺的是、歌单、推荐、搜索、艺人界面等都完全可用。换句话说，Apple Music Preview具备了一个合格的音乐播放器该有的功能。~~
 
@@ -46,13 +46,13 @@ URL: https://www.bilibili.com/video/BV1pP4y1r78Z/
 
 总的来说，新的三件套试图拆分iTunes原有的功能。而Apple Music Preview虽然功能已经相当完善，但目前与mac端仍有差距。虽然bug很多、登陆很麻烦，但是确实可以播放无损，比Web端强到不知道哪里去了。推荐新用户注册个账号试试，免费送一个月呢。
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%205.png)
+![Untitled](pic/Untitled 5.png)
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%206.png)
+![Untitled](pic/Untitled 6.png)
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%207.png)
+![Untitled](pic/Untitled 7.png)
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%208.png)
+![Untitled](pic/Untitled 8.png)
 
 # 要求
 
@@ -60,4 +60,4 @@ URL: https://www.bilibili.com/video/BV1pP4y1r78Z/
 
 之后我们会持续跟进Apple Music的动向，喜欢别忘了点个赞。
 
-![Untitled](Apple%20Music%20-%20Mac%E5%92%8CWin%E5%AF%B9%E6%AF%94%2037487c414e82491a9a7733cfad482270/Untitled%209.png)
+![Untitled](pic/Untitled 9.png)
